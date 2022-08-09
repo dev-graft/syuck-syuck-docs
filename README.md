@@ -4,7 +4,6 @@
 
 ## :framed_picture: 서비스 이미지
 
----
 
 
 ## :pushpin: 참여 팀원
