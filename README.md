@@ -4,7 +4,7 @@
 
 ## :vertical_traffic_light: 주제
 
-친구들과 대화할 수 있는 채팅 서비스
+친구들과 대화할 수 있는 채팅 서비스
 
 <br>
 
@@ -27,13 +27,14 @@
 <br>
 
 ## :screwdriver: 기술 스택
-![슉슉-기술 스택](https://user-images.githubusercontent.com/22608825/192098687-7d4e4e7f-8a29-4159-b3ca-89876186d518.png)
+
+![슉슉-기술 스택](https://user-images.githubusercontent.com/22608825/192102094-88827a71-c0fb-44d8-9f0d-b81cfce59588.png)
 
 <br>
 
 ## :bulb: 개발 플롯
-![개발플롯](https://user-images.githubusercontent.com/22608825/192100227-24c01e17-a687-4067-b675-9b14989b02cb.png)
 
+![슉슉 개발 플롯](https://user-images.githubusercontent.com/22608825/192102090-18d28abc-04f5-43c7-94aa-763b162d49f9.png)
 
 <br>
 
