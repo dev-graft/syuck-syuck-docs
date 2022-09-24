@@ -39,4 +39,5 @@
 <br>
 
 ## :world_map: User Flow
-유저 플로우 이미지 첨부
+![슉슉-User Flow](https://user-images.githubusercontent.com/22608825/192107473-256c069a-5297-4f2f-93e5-9a7457a5d8ec.png)
+
