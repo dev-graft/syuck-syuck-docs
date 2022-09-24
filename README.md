@@ -28,7 +28,7 @@
 
 ## :screwdriver: 기술 스택
 
-![슉슉-기술 스택](https://user-images.githubusercontent.com/22608825/192102094-88827a71-c0fb-44d8-9f0d-b81cfce59588.png)
+![슉슉-기술 스택](https://user-images.githubusercontent.com/22608825/192107572-3db92401-f169-4c75-b091-61b1e6257776.png)
 
 <br>
 
