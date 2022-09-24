@@ -32,7 +32,7 @@
 <br>
 
 ## :bulb: 개발 플롯
-![개발 플롯-2](https://user-images.githubusercontent.com/22608825/192100194-8745edd9-6ed6-49d5-8e24-8f6f1403ce51.png)
+![개발플롯](https://user-images.githubusercontent.com/22608825/192100227-24c01e17-a687-4067-b675-9b14989b02cb.png)
 
 
 <br>
