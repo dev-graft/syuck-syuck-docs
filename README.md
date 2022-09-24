@@ -2,42 +2,39 @@
 
 슉슉.. 슉슉슉!
 
-## :framed_picture: 서비스 이미지
+## :vertical_traffic_light: 주제
 
+친구들과 대화할 수 있는 채팅 서비스
 
+<br>
+
+## :dart: 목표
+
+- 친구들과 함께 대화할 수 있도록 채팅방을 제공한다.
+- 친구들과 나눈 대화가 서비스 제공자에게 노출되지 않는다는 믿음을 준다.
+
+<br>
 
 ## :pushpin: 참여 팀원
 
-|     [퍼클](https://github.com/PCloud63514)      |[Leanna](https://github.com/jihyunleeme) |
-|:----------------------------:|:----:|
-|  <img src="https://user-images.githubusercontent.com/22608825/178968208-3d26ac15-0272-46cc-9434-8d797ff7a296.jpeg" width="100px">  | <img src="https://user-images.githubusercontent.com/40045979/180649138-a7f930d4-7804-4d11-a01f-0e490278f44a.jpeg" width="120px"> |
-| BE |FE|
-|            간단함을 만드는 개발자             |  |
+
+|   [퍼클](https://github.com/PCloud63514)    |  [닼나](https://github.com/cjdvnd0206) |  [Leanna](https://github.com/jihyunleeme)  | 
+|:------------------------------:|:---------------------------------------------:|:----------------------------------------------:|
+| <img src="https://user-images.githubusercontent.com/22608825/178968208-3d26ac15-0272-46cc-9434-8d797ff7a296.jpeg" width="100px"> | <img src="https://user-images.githubusercontent.com/22608825/191979095-10317ae3-ff30-45d7-ac57-2f446a3dbcc4.jpeg" width="120px"> |<img src="https://user-images.githubusercontent.com/40045979/180649138-a7f930d4-7804-4d11-a01f-0e490278f44a.jpeg" width="120px">                                                     |
+|          BE        |        IOS                      |       FE           |  BE  |
+|                                                           간단함을 만드는 개발자                                                           |                                               |                                                |
 
 <br>
 
 ## :screwdriver: 기술 스택
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-569A31?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Testing Library-E33332?style=for-the-badge&logo=testingLibrary&logoColor=white">
-<img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactRouter&logoColor=white">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">  
-<img src="https://img.shields.io/badge/GitAction-D24939?style=for-the-badge&logo=Git Action&logoColor=white"> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
-</p>
+![슉슉-기술 스택](https://user-images.githubusercontent.com/22608825/192098687-7d4e4e7f-8a29-4159-b3ca-89876186d518.png)
 
 <br>
+
+## :bulb: 개발 플롯
+![개발 플롯](https://user-images.githubusercontent.com/22608825/192100057-f0971120-c917-4c0e-95f4-9ab6d26cae9c.png)
+
+<br>
+
+## :world_map: User Flow
+유저 플로우 이미지 첨부
