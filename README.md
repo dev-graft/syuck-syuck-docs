@@ -39,5 +39,5 @@
 <br>
 
 ## :world_map: User Flow
-![슉슉-User Flow](https://user-images.githubusercontent.com/22608825/192107473-256c069a-5297-4f2f-93e5-9a7457a5d8ec.png)
+![슉슉-User Flow](https://user-images.githubusercontent.com/22608825/192127274-66d4c351-eba5-43cd-b6c8-07263b99c551.png)
 
